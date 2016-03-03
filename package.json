@@ -1,0 +1,25 @@
+{
+  "name": "pythia-sdk",
+  "version": "0.0.1",
+  "description": "SDK for Pythia PRF Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornelltech/pythia-sdk-js.git"
+  },
+  "keywords": [
+    "password",
+    "hash",
+    "pythia",
+    "prf"
+  ],
+  "author": "CT Foundry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cornelltech/pythia-sdk-js/issues"
+  },
+  "homepage": "https://github.com/cornelltech/pythia-sdk-js#readme"
+}
